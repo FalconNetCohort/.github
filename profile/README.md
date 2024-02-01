@@ -34,4 +34,4 @@ FalconNet offers a multi-tier support system and adheres to a strict data retent
 ## Current Command Staff
 - **Director:** Enrique Oti
 - **Deputy Director:** Ethan Chapman
-- **Exec:** David Petzold
+- **Executive Officer:** David Petzold
